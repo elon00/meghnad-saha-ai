@@ -1,0 +1,14 @@
+{
+  "project": "meghnad-saha-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "2nBEUppuRfSeqyh5A5wPDbzhVUrrqgYre4LGpMRxAPoB",
+  "vault_account": "2ggpa6Kfeq1rimxWGMSksQBzkELjV6PBckM4aqcMf6D7",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3Zt4EuXeZWvHEgeaVKLoEbor7wN5L1H3BUAs6yrVk6A8jRrGV5AFmwitdCxgQc11DxpS18JCFS8LKhYQ7qzSD47j",
+  "account_tx": "3ZZP6jRwSXcywsjT2hoWND7irhEFKZway8bBPG3RjPebUwL5YLhjfn6VpAE8iKVRcCZ4kCsbN1Ungv3ZP8ipEM4w",
+  "mint_tx": "25NczRMeXwcu3HYG3da7S5XaQZbwoPT2nUWViWUB6eBtcMeb8U1N61HVAz3GLMQXqXMmq5ermu2QqLgjtCHukYGE",
+  "solana_explorer_mint": "https://explorer.solana.com/address/2nBEUppuRfSeqyh5A5wPDbzhVUrrqgYre4LGpMRxAPoB?cluster=devnet",
+  "timestamp": "2026-10-26 16:49:27 UTC"
+}
